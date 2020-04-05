@@ -242,15 +242,15 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-> **Flask Dashboard StarAdmin Boxed PRO** - Text Editor Screen
+> **Flask Dashboard StarAdmin Boxed PRO** - Sales Page
 
-![Flask Dashboard StarAdmin PRO - Text Editor Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-boxed-pro/flask-dashboard-staradmin-boxed-pro-screen-2.png)
+![Flask Dashboard StarAdmin PRO - Sales Page.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-boxed-pro/flask-dashboard-staradmin-boxed-pro-screen-2.png)
 
 <br />
 
-> **Flask Dashboard StarAdmin Boxed PRO** - UI Tables Pages
+> **Flask Dashboard StarAdmin Boxed PRO** - Maps Page
 
-![Flask Dashboard StarAdmin PRO - UI Tables Pages.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-boxed-pro/flask-dashboard-staradmin-boxed-pro-screen-3.png)
+![Flask Dashboard StarAdmin PRO - UI Maps Page.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-boxed-pro/flask-dashboard-staradmin-boxed-pro-screen-3.png)
 
 <br />
 
